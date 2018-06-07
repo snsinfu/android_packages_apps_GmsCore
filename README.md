@@ -1,3 +1,5 @@
+This is a fork!
+
 <img src="http://i.imgur.com/hXY4lcC.png" height="42px" alt="microG" /> Services Core (GmsCore)
 =======
 [![Build Status](https://travis-ci.org/microg/android_packages_apps_GmsCore.svg?branch=master)](https://travis-ci.org/microg/android_packages_apps_GmsCore)
